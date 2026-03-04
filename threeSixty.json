@@ -1,0 +1,67 @@
+{
+  "version": "3.111.36326.0",
+  "course_id": "6Czh0cY5AME",
+  "title": "projek mm",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Intro Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "5VdKUMD2IVR",
+      "title": "menu page",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "5tCH0i5MXuN",
+      "title": "menu 1",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "6ODgKmolrxr",
+      "title": "KUIZ",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "5kbm9BVRrMm",
+      "title": "Latihan",
+      "scene_index": "1.4"
+    },
+    {
+      "id": "6CTyJL79iEH",
+      "title": "sesi 1",
+      "scene_index": "1.5"
+    },
+    {
+      "id": "6lylrU79FLT",
+      "title": "kuiz sesi 1",
+      "scene_index": "1.6"
+    },
+    {
+      "id": "5kSvGiZjltx",
+      "title": "kuiz sesi 1",
+      "scene_index": "1.7"
+    },
+    {
+      "id": "6LFDPufJiCL",
+      "title": "Results Slide",
+      "scene_index": "1.8"
+    },
+    {
+      "id": "5uJcPRag0O0",
+      "title": "video",
+      "scene_index": "1.9"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 1220,
+    "height": 658
+  },
+  "stage": {
+    "width": 960,
+    "height": 540
+  }
+}
